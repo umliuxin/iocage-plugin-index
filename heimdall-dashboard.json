@@ -8,16 +8,16 @@
     "pkgs": [
         "git-lite",
         "nginx",
-        "php80",
-        "php80-ctype",
-        "php80-filter",
-        "php80-mbstring",
-        "php80-pdo_sqlite",
-        "php80-session",
-        "php80-sqlite3",
-        "php80-tokenizer",
-        "php80-xml",
-        "php80-zip"
+        "php81",
+        "php81-ctype",
+        "php81-filter",
+        "php81-mbstring",
+        "php81-pdo_sqlite",
+        "php81-session",
+        "php81-sqlite3",
+        "php81-tokenizer",
+        "php81-xml",
+        "php81-zip"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
     "fingerprints": {
